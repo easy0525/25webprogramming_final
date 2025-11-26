@@ -1,0 +1,190 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 2880px;
+  height: 1800px;
+  overflow: hidden;
+  background-color: black;
+}
+
+.final_exam {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+
+  position: relative;
+}
+
+.title1 {
+  color: #fff;
+  font-family: "Pretendard Variable";
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+
+  position: absolute;
+  top: 55px;
+  left: 100px;
+}
+
+.title2 {
+  color: #fff;
+  font-family: "Pretendard Variable";
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+
+  position: absolute;
+  top: 190px;
+  left: 100px;
+}
+
+.circle1 {
+  position: absolute;
+  top: 95px;
+  left: 600px;
+}
+
+.circle2 {
+  position: absolute;
+  bottom: 140px;
+  right: 460px;
+
+  cursor: pointer;
+}
+
+.triangle1 {
+  position: absolute;
+  top: -40px;
+  left: 545px;
+}
+
+.triangle2 {
+  position: absolute;
+  bottom: -40px;
+  left: 390px;
+}
+
+.subtitle {
+  writing-mode: vertical-lr;
+
+  letter-spacing: 2px;
+
+  position: absolute;
+  top: 190px;
+  left: 240px;
+
+  color: #fff;
+  font-family: "Pretendard Variable";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.day {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+
+  color: #fff;
+  text-align: center;
+  font-family: "Pretendard Variable";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.locate {
+  position: absolute;
+  top: 50px;
+  right: 120px;
+
+  color: #fff;
+  font-family: "Pretendard Variable";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.center {
+  position: absolute;
+  top: 50px;
+  right: 190px;
+
+  color: #fff;
+  font-family: "Pretendard Variable";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.support {
+  position: absolute;
+  bottom: 30px;
+  right: 250px;
+
+  color: #fff;
+  text-align: center;
+  font-family: "Pretendard Variable";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.contact {
+  position: absolute;
+  bottom: 30px;
+  right: 100px;
+
+  color: #fff;
+  text-align: center;
+  font-family: "Pretendard Variable";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.road1 {
+  position: absolute;
+  top: 90px;
+  left: 480px;
+}
+
+.road2 {
+  position: absolute;
+  bottom: 130px;
+  left: 380px;
+}
+
+.outline1 {
+  position: absolute;
+  top: 85px;
+  left: 440px;
+}
+
+.outline2 {
+  position: absolute;
+  top: 235px;
+  left: 480px;
+}
+
+.outline3 {
+  position: absolute;
+  bottom: 350px;
+  left: 390px;
+}
+
+.outline4 {
+  position: absolute;
+  bottom: 130px;
+  left: 320px;
+}
